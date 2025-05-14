@@ -7,3 +7,30 @@ h1 {
     border-width: 3cm;
     
 }
+
+h2 { 
+    text-align: center;
+    color: crimson;
+    border-color: black;
+    border-style: groove;
+    font-size: medium;
+    border-width: 3cm;
+}
+
+h3 {
+    text-align: center;
+    color: deeppink;
+    border-color: blue;
+    border-style: double;
+    font-size: medium;
+    border-width: 3cm;
+}
+
+h4 {
+    text-align: center;
+    color: darkorange;
+    border-color: brown;
+    border-style: dotted;
+    font-size: medium;
+    border-width: 3cm;
+}
